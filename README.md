@@ -6,10 +6,13 @@
 ### <div align="center">Mi nombre es Jesus Gomez, soy full stack developer 👨‍💻 y me encanta la tecnóloga 🤖</div>  
   
 
-- **🌱 Actualmente estoy aprendiendo sobre Next.js y Typescript**  
+- **🌱 Actualmente estoy aprendiendo Typescript**  
   
 
 - 👥 Disfruto trabajar en equipo  
+- 🆕 Me gusta mucho aprender cosas nuevas
+- ✨ Suelo comprometerme mucho en cada proyecto que desarrollo
+- 🧠 Soy una persona muy curiosa y me gusta saber lo que mas pueda de cada cosa que hago
   
 
 <br/>  
