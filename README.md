@@ -10,9 +10,10 @@
   
 
 - 👥 Disfruto trabajar en equipo  
-- 🆕 Me gusta mantenerme actualizado, y 
+- 🆕 Me gusta mucho aprender cosas nuevas para mantenerme actualizado
 - ✨ Suelo comprometerme mucho en cada proyecto que desarrollo
 - 🧠 Soy una persona muy curiosa y me gusta saber lo que mas pueda de cada cosa que hago
+- 💪 Trato siempre de superarme afrontando todos los retos que tiene esta profesión
   
 
 <br/>  
