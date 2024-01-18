@@ -6,7 +6,7 @@
 ### <div align="center">Mi nombre es Jesus Gomez, soy full stack developer 👨‍💻 y me encanta la tecnóloga 🤖</div>  
   
 
-- **🌱 Actualmente estoy aprendiendo TypeScript y Nest.js**  
+- **🌱 Actualmente estoy aprendiendo TypeScript y Next.js**  
   
 
 - 👥 Disfruto trabajar en equipo  
